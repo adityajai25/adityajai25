@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai25&&theme=highcontrast" alt="adityajai25" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajai25&label=Profile%20views&color=0e75b6&style=flat" alt="adityajai25" /> </p>
-<p> View my Resume <a link href ="https://drive.google.com/file/d/1mfzErqHr0KHBjCs7QkWF1Qurt3AmvlS4/view?usp=sharing"> view</a>
+<p> View my Resume <a link href ="https://drive.google.com/file/d/1mfzErqHr0KHBjCs7QkWF1Qurt3AmvlS4/view?usp=sharing" target="_blank"> view</a>
