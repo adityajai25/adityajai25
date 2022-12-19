@@ -10,6 +10,8 @@
 
 - 📫 Reach me **adityajai243@gmail.com**
 
+- 👨‍💻 All of my projects are available at <a href = "https://adityajai25.github.io" target = "_blank">  
+
 - ⚡ **I am very jovial**
 
 <h3 align="left">Connect with me:</h3>
