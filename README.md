@@ -10,7 +10,7 @@
 
 - 📫 Reach me **adityajai243@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href = "https://adityajai25.github.io" target = "_blank"> View
+<!-- - 👨‍💻 All of my projects are available at <a href = "https://adityajai25.github.io" target = "_blank"> View -->
 
 - ⚡ **I am very jovial**
 
