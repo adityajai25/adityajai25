@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Data Analytics and Statistics**
 
+- 🧑🏽‍💻 Connect me for **Tech articles and Paper writting**
+
 - 📫 Reach me **adityajai243@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at <a href = "https://adityajai25.github.io" target = "_blank"> View -->
