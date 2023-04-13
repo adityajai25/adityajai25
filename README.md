@@ -31,7 +31,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityajai25&show_icons=true&locale=en&theme=highcontrast" alt="adityajai25" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adityajai25&theme=highcontrast)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=adityajai25&theme=highcontrast)](https://git.io/streak-stats) --> 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai25&&theme=highcontrast" alt="adityajai25" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajai25&label=Profile%20views&color=0e75b6&style=flat" alt="adityajai25" /> </p>
