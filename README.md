@@ -1,4 +1,4 @@
-<img  align="right" src="" alt="coding gif" height="300" width="400"></img>
+<!-- <img  align="right" src="" alt="coding gif" height="300" width="400"></img> -->
 
 <h1>Hello World!!</h1>
  
