@@ -10,7 +10,7 @@ I'm Aditya🤞, a final-year student at SRM University. I am passionate about We
 * 🧠  I'm learning Flask, Statistics, Go, and Data Structures
 * 🤝  I'm open to collaborating on Tech articles and Projects
 * ⚡  Life is all about how you handle things and how things handle you
-
+* [Visit my portfolio](https://adityajai25.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
