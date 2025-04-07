@@ -19,7 +19,7 @@ I'm Aditya🤞. I am passionate about Machine learning and Automation. I love th
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,js,mysql,flask,django,firebase,mongodb,gcp,react,php,go,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=py,js,mysql,flask,django,firebase,mongodb,gcp,react,git&theme=dark)
 
 [![Holopin Board](https://holopin.me/adityajai25)](https://holopin.io/@adityajai25)
 
