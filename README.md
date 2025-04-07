@@ -3,11 +3,11 @@
 <h1>Hello World!!</h1>
  
 
-I'm Aditya🤞, a final-year student at SRM University. I am passionate about Web development and Machine learning. I love the journey of continual learning, pushing my boundaries, and diving into social projects that might create a positive impact. 
+I'm Aditya🤞. I am passionate about Web development and Machine learning. I love the journey of continual learning, pushing my boundaries, and diving into social projects that might create a positive impact. 
 
-* 🧑🏽‍💻  Python, SQL, MERN stack
+* 🧑🏽‍💻  Python, SQL, Eggplant Automation
 * ✉️  You can contact me at [adityajai243@gmail.com](mailto:adityajai243@gmail.com)
-* 🧠  I'm learning Flask, Statistics, Go, and Data Structures
+* 🧠  I'm learning Selenium, 3DExperience
 * 🤝  I'm open to collaborating on Tech articles and Projects
 * ⚡  Life is all about how you handle things and how things handle you
 * [Visit my portfolio](https://adityajai25.github.io/)
