@@ -3,7 +3,7 @@
 <h1>Hello World!!</h1>
  
 
-I'm Aditya🤞. I am passionate about Web development and Machine learning. I love the journey of continual learning, pushing my boundaries, and diving into social projects that might create a positive impact. 
+I'm Aditya🤞. I am passionate about Machine learning and Automation. I love the journey of continual learning, pushing my boundaries, and diving into social projects that might create a positive impact. 
 
 * 🧑🏽‍💻  Python, SQL, Eggplant Automation
 * ✉️  You can contact me at [adityajai243@gmail.com](mailto:adityajai243@gmail.com)
